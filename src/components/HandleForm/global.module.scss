@@ -1,0 +1,9 @@
+.placeholderSelect {
+    @apply not-italic text-placeholder
+}
+.contentFormField {
+    @apply w-full h-auto flex my-8
+}
+.formTitle {
+    @apply w-2/5 h-auto flex items-center
+}
